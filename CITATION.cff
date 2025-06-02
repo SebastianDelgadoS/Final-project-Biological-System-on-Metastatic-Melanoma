@@ -14,17 +14,17 @@ authors:
     given-names: Jose Sebastian
     affiliation: Tecnologico Nacional de Mexico
 repository-code: >-
-  https://github.com/SebastianDelgadoS/Gemelos-Digitales-Modelizado-matematico-C20212281
+  https://github.com/SebastianDelgadoS/Final-project-Biological-System-on-Metastatic-Melanoma
 abstract: |-
   Tecnologico Nacional de Mexico
   Instituto Tecnologico de Tijuana
   Ingenieria Biomédica
   Gemelos Digitales
-  Practica 4-Modelizado matematico
+  Project Final-Biological System on Metastatic Melanoma
 keywords:
-  - Modelo matematico
-  - Metodo de Heun
-  - Matriz Jacobiana
-  - Punto de equilibrio
+ -Melanoma metastasico
+ -Ecuaciones diferenciales
+ -Modelo dinámico
+ -Estabilidad del sistema
  
 license: BSD-2-Clause
