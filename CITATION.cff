@@ -1,0 +1,30 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MATLAB
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - {}
+  - email: l20212281@tectijuana.edu.mx
+    family-names: Delgado Soto
+    given-names: Jose Sebastian
+    affiliation: Tecnologico Nacional de Mexico
+repository-code: >-
+  https://github.com/SebastianDelgadoS/Gemelos-Digitales-Modelizado-matematico-C20212281
+abstract: |-
+  Tecnologico Nacional de Mexico
+  Instituto Tecnologico de Tijuana
+  Ingenieria Biomédica
+  Gemelos Digitales
+  Practica 4-Modelizado matematico
+keywords:
+  - Modelo matematico
+  - Metodo de Heun
+  - Matriz Jacobiana
+  - Punto de equilibrio
+ 
+license: BSD-2-Clause
